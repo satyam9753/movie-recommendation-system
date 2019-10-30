@@ -27,7 +27,7 @@ GroupLens is a research group in the Department of Computer Science and Engineer
 
 GroupLens Research operates a movie recommender based on collaborative filtering, MovieLens, which is the source of these data. We encourage you to visit <http://movielens.org> to try it out! If you have exciting ideas for experimental work to conduct on MovieLens, send us an email at <grouplens-info@cs.umn.edu> - we are always interested in working with external collaborators.
 
-Genres are a pipe-separated list, and are selected from the following:
+Genres are a pipe-separated list, and are selected from the following categories:
 
 * Action
 * Adventure
